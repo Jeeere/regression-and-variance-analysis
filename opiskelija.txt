@@ -1,0 +1,6 @@
+pituus paino tdk
+1 183 70 LuTK
+2 176 76 OyKKK
+3 173 63 TSTK
+4 177 69 LuTK
+5 185 80 OyKKK
